@@ -1,0 +1,91 @@
+.main-container {
+	padding: 5% 2% 5% 2%;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+
+.main-image {
+	margin: 0 auto;
+	margin-top: 5%;
+	text-align: center;
+	max-width: 100%;
+	display: block;
+}
+.middle-section {
+	margin-top: 2%;
+	padding: 2% 0 2% 0;
+	background-color: black;
+	width: 100%;
+}
+
+#main-content {
+	margin: 2% 0 2% 0;
+
+
+}
+
+footer {
+	margin: 5% 0 5% 0;
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+	width: 100%;
+	margin: auto;
+	text-align: center;
+	background-color: white;
+}
+
+.pad-2 {
+	padding: 2% 0 2% 0;
+}
+
+a{
+	color: black;
+	font-weight: bold;
+}
+
+a:hover {
+	color: #EC0026;
+}
+
+.full-width {
+	width: 100%;
+}
+
+.navbar {
+	margin: auto;
+	text-align: center; }
+
+	.centered-nav {
+		text-align: center;
+		margin: auto;
+		display: inline-block;
+		float: none;
+		vertical-align: top; }
+
+		.centered {
+			text-align: center;
+			margin: auto;
+
+		}
+
+		.pad-top-5 {
+			padding-top: 5%;
+		}
+
+		.navbar .navbar-nav {
+			display: inline-block;
+			float: none;
+			vertical-align: top;
+		}
+
+
+
+		.font-red {
+			color: #EC0026;
+		}
+
+
+
+		/*# sourceMappingURL=styles.css.map */
