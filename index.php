@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+
+    <title>Columbus Castaways Rugby | Columbus, Ohio</title>
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+
+    <!-- Main Css -->
+
+    <link rel="stylesheet" type="text/css" href="styles/styles.css">
+
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+
+    <!-- Latest compiled JavaScript -->
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+
+    <div class="container main-container">
+        <header>
+            <nav class="navbar ">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="navbar-header centered full-width">
+                            <h1 class="centered"><a href="index.html">Castaways</a></h1>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <ul id="main-nav-bar" class="navbar nav-justified centered-nav pad-top-5">
+                            <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">The Club <span class="caret"></span></a>
+                                <ul class="dropdown-menu">
+                                    <li><a href="#">History</a>
+                                    </li>
+                                    <li><a href="#">Players</a>
+                                    </li>
+                                    <li><a href="#">Sign Up</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Schedule <span class="caret"></span></a>
+                                <ul class="dropdown-menu">
+                                    <li><a href="schedule.html">2016 Schedule</a>
+                                    </li>
+                                    <li><a href="schedule.html#social_schedule">Social Calendar</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="dropdown"><a href="#">Sponsors </a>
+                            </li>
+                            <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Members <span class="caret"></span></a>
+                                <ul class="dropdown-menu">
+                                    <li><a href="#">New Members</a>
+                                    </li>
+                                    <li><a href="#">Pay Dues</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Teams <span class="caret"></span></a>
+                                <ul class="dropdown-menu">
+                                    <li><a href="#">Castaways</a>
+                                    </li>
+                                    <li><a href="#">Page 1-2</a>
+                                    </li>
+                                    <li><a href="#">Pastaways</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li><a href="#">Merchandise </a>
+                            </li>
+                            <li><a href="#">Contact Us </a>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+            <div class="row">
+                <div class="col-md-12 ">
+                    <div id="header_image">
+                        <img src="images/team.png" class="img-repsonsive main-image" height="500px" width="600px">
+                    </div>
+                    <div class="col-md-12 middle-section">
+
+                        <h2 class="centered font-red">Columbus Castaways</h2>
+
+                        <p class="centered font-red">Club Rugby in Columbus, Ohio</p>
+                    </div>
+
+                </div>
+            </div>
+
+        </header>
+
+
+        <article id="main-content">
+            <div class="row">
+                <h2 class="centered pad-2">The Columbus Castaways: Leave a Mess and Forget the Rest</h2>
+                <div class="col-md-4">
+                    <a href=""><img src="images/shield.jpg" class="img-responsive centered" height="240" width="255" alt="">
+                    </a>
+                </div>
+                <div class="col-md-4">
+                    <a href=""><img src="images/calendar.png" class="img-responsive centered" alt="" height="240" width="255">
+                    </a>
+                </div>
+                <div class="col-md-4">
+                    <a href=""><img src="images/contact-form.png" class="img-responsive centered" height="240" width="255" alt="">
+                    </a>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <h3>About the Club</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut totam, adipisci, quae alias distinctio ab facere repudiandae unde temporibus, maxime dolore odit, voluptas vel iure commodi voluptatibus illum. Odit, possimus!</p>
+                    <p>Ex obcaecati, consequatur quae harum eaque enim velit veniam cum, eius libero asperiores nostrum voluptas dolorum porro magnam culpa facilis unde beatae suscipit omnis illum officiis consectetur eligendi commodi. Quod!</p>
+                </div>
+                <div class="col-md-4">
+                    <h3>Events</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut totam, adipisci, quae alias distinctio ab facere repudiandae unde temporibus, maxime dolore odit, voluptas vel iure commodi voluptatibus illum. Odit, possimus!</p>
+                    <p>Ex obcaecati, consequatur quae harum eaque enim velit veniam cum, eius libero asperiores nostrum voluptas dolorum porro magnam culpa facilis unde beatae suscipit omnis illum officiis consectetur eligendi commodi. Quod!</p>
+                </div>
+                <div class="col-md-4">
+                    <h3>How to Sign up</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut totam, adipisci, quae alias distinctio ab facere repudiandae unde temporibus, maxime dolore odit, voluptas vel iure commodi voluptatibus illum. Odit, possimus!</p>
+                    <p>Ex obcaecati, consequatur quae harum eaque enim velit veniam cum, eius libero asperiores nostrum voluptas dolorum porro magnam culpa facilis unde beatae suscipit omnis illum officiis consectetur eligendi commodi. Quod!</p>
+                </div>
+            </div>
+
+        </article>
+
+        <div class="row">
+            <div class="col-md-12 centered">
+                <h3>The Boys at Work</h3>
+            </div>
+        </div>
+
+        <!-- Carousel -->
+
+        <div class="row">
+            <div class="col-md-12">
+                <br>
+                <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                    <!-- Indicators -->
+                    <ol class="carousel-indicators">
+                        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                        <li data-target="#myCarousel" data-slide-to="1"></li>
+                        <li data-target="#myCarousel" data-slide-to="2"></li>
+                        <li data-target="#myCarousel" data-slide-to="3"></li>
+                    </ol>
+
+                    <!-- Wrapper for slides -->
+                    <div class="carousel-inner" role="listbox">
+                        <div class="item active">
+                            <img src="images/action-2.jpg" class="img-responsive" height="200px" width="400px">
+                        </div>
+
+                        <div class="item">
+                            <img src="images/Rugby-367x208.jpg" class="img-responsive" height="200px" width="400px">
+                        </div>
+
+                        <div class="item">
+                            <img src="images/placeholder.jpg" class="img-responsive" height="200px" width="400px">
+                        </div>
+
+                        <div class="item">
+                            <img src="images/placeholder.jpg" class="img-responsive" height="200px" width="400px">
+                        </div>
+                    </div>
+
+                    <!-- Left and right controls -->
+                    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+                        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+                        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="row">
+            <div class="col-md-6">
+                <h3>Interested in Joining? Questions? Get in Touch!</h3>
+
+                <form role="form">
+                    <div class="form-group">
+                        <label for="user">First Name:</label>
+                        <input type="text" class="form-control" id="usr" placeholder="First Name">
+                    </div>
+                    <div class="form-group">
+                        <label for="pwd">Last Name:</label>
+                        <input type="text" class="form-control" id="usr" placeholder="Last Name">
+                    </div>
+                    <div class="form-group">
+                        <label for="pwd">Email Address:</label>
+                        <input type="email" class="form-control" id="email" placeholder="Enter email">
+                    </div>
+                    <div class="form-group">
+                        <label for="comment">Message, Questions:</label>
+                        <textarea class="form-control" rows="5" id="comment" placeholder="Enter comments or questions"></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-default">Submit</button>
+                </form>
+
+            </div>
+
+            <?php
+
+            echo "Test!";
+
+
+
+
+            ?> 
+
+            <div class="col-md-6">
+                <div class="row">
+                    <div class="col-sm-6 pad-2">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium ea, animi numquam quod quidem velit doloribus. Vel consequatur eum, autem enim modi ipsam quo quis cumque doloribus, velit eos. Necessitatibus?</p>
+                        <p>Nesciunt cum, eligendi asperiores sint officiis, reprehenderit vero modi mollitia provident perspiciatis nisi, est hic illo maxime voluptatem nihil quisquam aut ad distinctio quis, vel illum saepe tempora doloribus minima.</p>
+                        <p>Libero aliquid temporibus fugiat illo optio esse magnam architecto non labore officiis quis quo fugit sint, harum sit tempore voluptatibus porro voluptate! Nemo sequi expedita ea perspiciatis mollitia provident, consequatur.</p>
+                    </div>
+                    <div class="col-sm-6 pad-2">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad consequatur, non quibusdam enim a rerum quo vitae dicta voluptatibus, eos, assumenda corporis cum tenetur rem ullam doloribus! Atque, pariatur, neque!</p>
+                        <p>Accusamus cupiditate, deleniti placeat natus quod expedita inventore officia aliquid molestias nisi suscipit vitae nihil temporibus omnis voluptas nesciunt fugiat laudantium ullam corporis alias accusantium laboriosam? Vitae reiciendis, mollitia similique?</p>
+                        <p>Incidunt sed labore commodi molestias, quasi nobis earum soluta ducimus temporibus eum laudantium, aperiam voluptate harum ipsum dolor quia blanditiis, sit obcaecati saepe! Similique ut repudiandae quaerat repellat, corrupti aperiam?</p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <footer>
+            <div class="row">
+                <div class="col-md-12" id="footer">
+                    <p class="pad-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum nemo doloremque cumque rerum sed esse corporis voluptatem quibusdam illum eaque, veniam vitae commodi, excepturi ipsam, eos quisquam iure incidunt hic.</p>
+                </div>
+            </div>
+        </footer>
+
+
+
+    </div>
+    <!-- End Main Container -->
+
+
+
+</body>
+
+
+
+
+
+</html>
